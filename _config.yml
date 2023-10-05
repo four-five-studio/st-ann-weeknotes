@@ -1,4 +1,4 @@
-title: Welsh Revenue Authority weeknotes
+title: Open Funding Pilot weeknotes
 remote_theme: pages-themes/primer@v0.6.0
 permalink: /:categories/:year-:month-:day:output_ext
 plugins:
@@ -15,5 +15,4 @@ relative_links:
   #   - README.md
 feed:
   categories:
-    - property-data-poc
-    - debt-discovery
+    - open-funding-pilot
