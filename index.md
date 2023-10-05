@@ -1,2 +1,1 @@
-* [Land and Property Data proof of concept](property-data-poc)
-* [Debt discovery](debt-discovery)
+* [Open Funding pilot](open-funding-pilot)
