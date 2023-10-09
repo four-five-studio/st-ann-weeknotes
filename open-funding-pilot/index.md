@@ -4,13 +4,13 @@
 
 ## What is a weeknote?
 
-Q - Whats a weeknote?
+Q - What's a weeknote?
 
 A - [DXW describe it best in their playbook](https://playbook.dxw.com/delivery-management/weeknotes/). Our take is these are a way to speak like a human to people who might be interested in the work we are doing - with all the challanges and fun that doing that brings. It's a place to [radiate our intent](https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3) and gather feedback
 
 Q - Why do you want to do that?
 
-A - [Working with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) is so inviting. Being inviting is great. Hopefully these weeknotes have a bit of charactor to them - I hope you read and enjoy them.
+A - [Working with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu) is so inviting. Being inviting is great. Hopefully these weeknotes have a bit of character to them - we hope you read and enjoy them.
 
 Q - Who else has done them?
 
