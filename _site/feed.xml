@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-13T16:19:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Open Funding Pilot weeknotes</title><subtitle>Repo for FF Studio weeknotes on the Open Funding Pilot. Thanks to @richardjpope and Welsh Revenue Authority.</subtitle><entry><title type="html">Week2</title><link href="http://localhost:4000/open-funding-pilot/2023-10-12.html" rel="alternate" type="text/html" title="Week2" /><published>2023-10-12T00:00:00+01:00</published><updated>2023-10-12T00:00:00+01:00</updated><id>http://localhost:4000/open-funding-pilot/week2</id><content type="html" xml:base="http://localhost:4000/open-funding-pilot/2023-10-12.html">&lt;h1 id=&quot;weeknotes-2&quot;&gt;📝 Weeknotes #2&lt;/h1&gt;
+
+&lt;p&gt;We are a team from Sport England and &lt;a href=&quot;https://www.ff.studio&quot;&gt;FF Studio&lt;/a&gt; working together on the Open Funding Pilot.&lt;/p&gt;
+
+&lt;p&gt;It will &lt;strong&gt;help Sport England try new ways of working and new funding models to enable them to get more people in underserved communities active&lt;/strong&gt;. It will also show the wider Sport England organisation what transformational delivery looks like.&lt;/p&gt;
+
+&lt;p&gt;Weeknotes are a quick recap of the important things a team has done each week, what we’ve learned, and what’s the plan for next week. They also help us work in the open.&lt;/p&gt;
+
+&lt;h2 id=&quot;9-13-october-2023&quot;&gt;9-13 October 2023&lt;/h2&gt;
+
+&lt;h4 id=&quot;we-made-decisions&quot;&gt;We made decisions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We’ll constrain the pilot to tier 1 funding (up to £250,000) - because this makes assessment, decision making, governance, contracting simpler for Sport England&lt;/li&gt;
+  &lt;li&gt;We’ll keep the pilot closed - constrained to a list held by the Strategic Partners team - because this is a pilot happening shortly before the December holiday break and we don’t want to inundate Sport England with support queries. We still think we’ll learn a lot of things that will be useful for an open fund later on.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;we-made-a-prototype-form&quot;&gt;We made a prototype form&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The form asks applicants questions that relate to eligibility (there’s some branching logic: if you say (for example) that you want more than £250k, the form ends early with a sorry). Also some details on your project, its outcomes and measurement, and your organisation.&lt;/li&gt;
+  &lt;li&gt;It’s a form using Google Forms and a Google Sheets spreadsheet as its data store.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This first prototype is to help us define the criteria for the fund, and get questions answered. It isn’t something we’ll test with applicants. When making decisions about the prototype, we leaned into riskier choices. Both to test those choices, and also to encourage conversation.&lt;/p&gt;
+
+&lt;p&gt;We also added questions about accessibility and inclusion, and about climate change, because making an impact in 2023 requires engaging with those things, not ignoring them. In a &lt;a href=&quot;https://www.theguardian.com/sport/2023/oct/11/sport-england-tells-sports-fight-climate-crisis-or-youll-get-no-funding&quot;&gt;recent article in The Guardian&lt;/a&gt;, Sport England chair Chris Boardman says that sports needs to step up when it comes to climate change - which is awesome. And using this a way to figure out how to make that real feels like a good idea. We hope this work helps to find some new norms.&lt;/p&gt;
+
+&lt;h4 id=&quot;we-have-questions&quot;&gt;We have questions&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can a form be short/applicant-friendly and ask for everything needed to make a funding decision? - We’ll explore this with Sian next week.&lt;/li&gt;
+  &lt;li&gt;How might the affordances of different tech platforms change the applicant’s response? Is Google Form the right platform to use?&lt;/li&gt;
+  &lt;li&gt;Even though it’s a closed pilot, can our learnings contribute to diversifying applicants in the future?&lt;/li&gt;
+  &lt;li&gt;What cohorts might we split the list into, and how might that change the way we treat different applicants? - Cassie is exploring this with Greg, Ed and Jo, and helping us find the way to some answers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;next-week&quot;&gt;Next week&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Meet again with Sian and others, and catch up with Steve when he’s back from his hols&lt;/li&gt;
+  &lt;li&gt;Start looking at some assessor workflow&lt;/li&gt;
+  &lt;li&gt;Decide on Google Forms vs Typeform for next prototype&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="open-funding-pilot" /><summary type="html">📝 Weeknotes #2</summary></entry><entry><title type="html">Week1</title><link href="http://localhost:4000/open-funding-pilot/2023-10-05.html" rel="alternate" type="text/html" title="Week1" /><published>2023-10-05T00:00:00+01:00</published><updated>2023-10-05T00:00:00+01:00</updated><id>http://localhost:4000/open-funding-pilot/week1</id><content type="html" xml:base="http://localhost:4000/open-funding-pilot/2023-10-05.html">&lt;h1 id=&quot;weeknotes-1&quot;&gt;📝 Weeknotes #1&lt;/h1&gt;
+
+&lt;p&gt;We are a team from Sport England and FF Studio working together on the Open Funding Pilot.&lt;/p&gt;
+
+&lt;p&gt;It will &lt;strong&gt;help Sport England try new ways of working and new funding models to enable them to get more people in underserved communities active&lt;/strong&gt;. It will also show the wider Sport England organisation what transformational delivery looks like.&lt;/p&gt;
+
+&lt;p&gt;Weeknotes are a quick recap of the important things a team has done each week, what we’ve learned, and what’s the plan for next week. They also help us work in the open.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-6-october-2023&quot;&gt;2-6 October 2023&lt;/h2&gt;
+
+&lt;p&gt;This week the team gathered: Anna Goss, Eliot Fineberg, Kim Morley, Sonia Turcotte and Rod McLaren from FF Studio, and Cassie Burgess from Sport England.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We agreed our “point of departure”: purpose, outcomes, target audience, roles and ways of working, success criteria, “fiasco criteria” (failures to avoid), and other projects that connect to this.&lt;/li&gt;
+  &lt;li&gt;We identified high level “jobs to be done” (apply for funding, score applications, remit successful funding, etc). These prompted some assumptions and questions that we will need to explore and answer.&lt;/li&gt;
+  &lt;li&gt;We started building a schedule: we know we need to move quickly. The critical milestones are: publish the pilot w/c 6 Nov, and give applicants answers w/c 18 Dec.&lt;/li&gt;
+  &lt;li&gt;We also started desk research into how other organisations are approaching open sport funding: Sport Wales, Sports Scotland, Sport Unites, Angus Irvine, Go! London and others.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All of these are documented on our &lt;a href=&quot;https://miro.com/app/board/uXjVNfn2G4I=/&quot;&gt;Miro board&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next week&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Talk to subject matter experts in SE (Sian Jones, Jo) next week&lt;/li&gt;
+  &lt;li&gt;Build a prototype to start conversation about what’s working and what isn’t&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="open-funding-pilot" /><summary type="html">📝 Weeknotes #1</summary></entry></feed>
