@@ -1,6 +1,7 @@
 ## Open Funding pilot weeknote
 
 * [📝 Weeknotes #1 - starting a thing](2023-10-05)
+* [📝 Weeknotes #2 - we made made decisions](2023-10-12)
 
 ## What is a weeknote?
 
