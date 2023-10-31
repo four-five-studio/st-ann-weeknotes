@@ -3,6 +3,7 @@
 * [📝 Weeknotes #1 - starting a thing](2023-10-05)
 * [📝 Weeknotes #2 - we made decisions](2023-10-12)
 * [📝 Weeknotes #3 - we made a new prototype](2023-10-19)
+* [📝 Weeknotes #4 - we talked to some people](2023-10-26)]
 
 ## What is a weeknote?
 
