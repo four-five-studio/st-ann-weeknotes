@@ -8,6 +8,8 @@
 * [📝 Weeknotes #6 - we improved the prototype and talked to ELT](2023-11-10)
 * [📝 Weeknotes #7 - we prototyped the assessment model](2023-11-17)
 * [📝 Weeknotes #8 - we named the fund](2023-11-24)
+* [📝 Weeknotes #9 - we all got sick](2023-12-01)
+* [📝 Weeknotes #10 - we got ready to launch](2023-12-08)
 
 ## What is a weeknote?
 
