@@ -10,6 +10,7 @@
 * [📝 Weeknotes #8 - we named the fund](2023-11-24)
 * [📝 Weeknotes #9 - we all got sick](2023-12-01)
 * [📝 Weeknotes #10 - we got ready to launch](2023-12-08)
+* [📝 Weeknotes #11 - we launched Pilot Fund 2024](2023-12-15)
 
 ## What is a weeknote?
 
