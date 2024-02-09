@@ -12,7 +12,7 @@
 * [📝 Weeknotes #10 - we got ready to launch](2023-12-08)
 * [📝 Weeknotes #11 - we launched Pilot Fund 2024](2023-12-15)
 * [📝 Weeknotes #12 - we got an application](2024-01-12)
-* [📝 Weeknotes #13 - we closed the fund for applications](2024-01-19)
+* [📝 Weeknotes #13 - we closed the fund for applications](2024-01-26)
 
 ## What is a weeknote?
 
